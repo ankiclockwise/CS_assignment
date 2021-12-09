@@ -1,6 +1,6 @@
 package models;
 
-public class ServerLog {
+public class Model {
     private long timestamp;
     private String id;
     private String state;
